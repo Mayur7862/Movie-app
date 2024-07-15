@@ -1,6 +1,5 @@
 import Results from '@/components/Results';
 import React from 'react';
-import { useSearchParams } from 'next/navigation'
 
 const API_KEY = process.env.API_KEY;
 
