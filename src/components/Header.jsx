@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Menuitems from './Menuitems';
-import { AiFillHome } from 'react-icons/ai';
-import { BsFillInfoCircleFill } from 'react-icons/bs';
+import { AiFillHome } from 'react-icons';
+import { BsFillInfoCircleFill } from 'react-icons';
 import DarkMode from './DarkMode';
 
 export default function Header() {
